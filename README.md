@@ -5,5 +5,3 @@ If an animal has more than one collateral adjective, use all of them (mentioning
 
 # Install and import modules
 pip install bs4
-pip install requests
-pip install urllib3
